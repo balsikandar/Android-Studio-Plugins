@@ -1,5 +1,6 @@
 # Android-Plugins
-This is a list of all useful android studio plugins
+This is a list of all awesome and useful android studio plugins. This repo will be updated regularly for newplugins entry.
+
 ### Code generators
 
 |          Plugin Name                        |                 Plugin link
@@ -62,3 +63,10 @@ This is a list of all useful android studio plugins
 | ADB idea                                    |  https://github.com/pbreault/adb-idea
 | Permission Dispatcher                       |  https://github.com/shiraji/permissions-dispatcher-plugin
 | Scala                                       |  https://plugins.jetbrains.com/plugin/1347-scala
+
+
+### Also Check [CrashReporter](https://github.com/balsikandar/CrashReporter)
+A easy to use library to capture all your crashes.
+
+### Contributing to this Repo
+Create a pull request and Dive In.
