@@ -1,6 +1,8 @@
 # Android-Plugins
 This is a list of all awesome and useful android studio plugins. This repo will be updated regularly for newplugins entry.
 
+Here is an [article](https://medium.com/p/3beb3861fa7/edit) related to this repo.
+
 ### Code generators
 
 |          Plugin Name                        |                 Plugin link
