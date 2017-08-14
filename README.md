@@ -69,8 +69,5 @@ Here is an [article](https://medium.com/p/3beb3861fa7/edit) related to this repo
 | Scala                                       |  https://plugins.jetbrains.com/plugin/1347-scala
 
 
-### Also Check [CrashReporter](https://github.com/balsikandar/CrashReporter)
-A easy to use library to capture all your crashes.
-
 ### Contributing to this Repo
-If you feel something is missing.Create a pull request and Dive In.
+If you feel something is missing. Create a pull request and Dive In.
