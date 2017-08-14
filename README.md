@@ -1,4 +1,6 @@
 # Android-Plugins
+<img src = https://github.com/balsikandar/Android-Studio-Plugins/blob/master/assets/android_studio_plugin.png>
+
 This is a list of all awesome and useful android studio plugins. This repo will be updated regularly for new entries.
 
 Here is an [article](https://medium.com/p/3beb3861fa7/edit) related to this repo.
