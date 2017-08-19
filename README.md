@@ -71,3 +71,6 @@ Here is an [article](https://medium.com/p/3beb3861fa7/edit) related to this repo
 
 ### Contributing to this Repo
 If you feel something is missing. Create a pull request and Dive In.
+
+### Check out another awesome library to capture your crashes instantly and locally.
+[CrashReporter](https://github.com/balsikandar/CrashReporter) on your duty.
