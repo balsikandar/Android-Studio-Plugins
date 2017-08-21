@@ -67,6 +67,7 @@ Here is an [article](https://medium.com/p/3beb3861fa7/edit) related to this repo
 | ADB idea                                    |  https://github.com/pbreault/adb-idea
 | Permission Dispatcher                       |  https://github.com/shiraji/permissions-dispatcher-plugin
 | Scala                                       |  https://plugins.jetbrains.com/plugin/1347-scala
+| ADB Wifi                                    |  https://github.com/layerlre/ADBWIFI
 
 
 ### Contributing to this Repo
