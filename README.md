@@ -1,5 +1,6 @@
-# Android-Plugins
 <img src = https://github.com/balsikandar/Android-Studio-Plugins/blob/master/assets/android_studio_plugin.png>
+
+# Android Studio Plugins
 
 [![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23272-blue.svg)](http://androidweekly.net/issues/issue-272)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
