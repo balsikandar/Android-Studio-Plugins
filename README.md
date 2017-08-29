@@ -6,6 +6,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/balsikandar/Android-Studio-Plugins/blob/master/LICENSE)
 
+#### Spread Some :heart:
+
+[![GitHub stars](https://img.shields.io/github/stars/balsikandar/Android-Studio-Plugins.svg?style=social&label=Star)](https://github.com/balsikandar/Android-Studio-Plugins) [![GitHub forks](https://img.shields.io/github/forks/balsikandar/Android-Studio-Plugins.svg?style=social&label=Fork)](https://github.com/balsikandar/Android-Studio-Plugins/fork) [![GitHub watchers](https://img.shields.io/github/watchers/balsikandar/Android-Studio-Plugins.svg?style=social&label=Watch)](https://github.com/balsikandar/Android-Studio-Plugins)[![GitHub followers](https://img.shields.io/github/followers/balsikandar.svg?style=social&label=Follow)](https://github.com/balsikandar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/balsikandar.svg?style=social)](https://twitter.com/balsikandar)
 
 
 This is a list of all awesome and useful android studio plugins. This repo will be updated regularly for new entries.
@@ -83,6 +87,9 @@ If you feel something is missing. Create a pull request and Dive In.
 
 ### Check out another awesome library to capture your crashes instantly and locally.
 [CrashReporter](https://github.com/MindorksOpenSource/CrashReporter) on your duty.
+
+### Find this project useful ? :heart:
+* Support it by clicking the :star: button on the upper right of this page. :v:
 
 ### License
 
