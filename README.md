@@ -1,6 +1,12 @@
 # Android-Plugins
 <img src = https://github.com/balsikandar/Android-Studio-Plugins/blob/master/assets/android_studio_plugin.png>
 
+[![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23272-blue.svg)](http://androidweekly.net/issues/issue-272)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/balsikandar/Android-Studio-Plugins/blob/master/LICENSE)
+
+
+
 This is a list of all awesome and useful android studio plugins. This repo will be updated regularly for new entries.
 
 Here is an [article](https://medium.com/p/3beb3861fa7/edit) related to this repo.
