@@ -54,6 +54,8 @@ Here is an [article](https://medium.com/p/3beb3861fa7/edit) related to this repo
 | Material Theme UI for Jetbrains             |  https://github.com/ChrisRM/material-theme-jetbrains
 | CodeGlance                                  |  https://github.com/Vektah/CodeGlance
 | Material Theme UI EAP                       |  https://plugins.jetbrains.com/plugin/9377-material-theme-ui-eap
+| SVG2VectorDrawable                          |  https://github.com/misakuo/svgtoandroid
+| Android Drawable Importer                   |  https://github.com/winterDroid/android-drawable-importer-intellij-plugin
 
 
 ### Debugging
@@ -80,6 +82,13 @@ Here is an [article](https://medium.com/p/3beb3861fa7/edit) related to this repo
 | Scala                                       |  https://plugins.jetbrains.com/plugin/1347-scala
 | ADB Wifi                                    |  https://github.com/layerlre/ADBWIFI
 | String Manipulation                         |  https://github.com/krasa/StringManipulation
+
+### Tools
+
+|          Plugin Name                        |                 Plugin link
+| ------------------------------------------  |  -----------------------------------------------------------
+| GenyMotion                                  |  https://www.genymotion.com/plugins/
+| Git Flow Integration for Intellij           |  https://github.com/OpherV/gitflow4idea/
 
 
 ### Contributing to this Repo
