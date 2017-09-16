@@ -67,6 +67,7 @@ Here is an [article](https://medium.com/p/3beb3861fa7/edit) related to this repo
 | FindBugs                                    |  https://plugins.jetbrains.com/plugin/3847-findbugs-idea
 | Jetbrains-Wakatime                          |  https://github.com/wakatime/jetbrains-wakatime
 | Android Wifi Plugin                         |  https://github.com/pedrovgs/AndroidWiFiADB
+| QA Plug                                     |  https://plugins.jetbrains.com/plugin/4594-qaplug
 
 
 ### Utilities
