@@ -99,6 +99,8 @@ If you feel something is missing. Create a pull request and Dive In.
 ### Check out another awesome library to capture your crashes instantly and locally.
 [CrashReporter](https://github.com/MindorksOpenSource/CrashReporter) on your duty.
 
+### [Chinese version : 中文版访问这里](https://github.com/sunzq19931016/Android-Studio-Plugins-cn)
+
 ### Find this project useful ? :heart:
 * Support it by clicking the :star: button on the upper right of this page. :v:
 
