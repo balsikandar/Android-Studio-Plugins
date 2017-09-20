@@ -17,8 +17,6 @@ This is a list of all awesome and useful android studio plugins. This repo will 
 
 Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7) related to this repo.
 
-### [Chinese version : 中文版访问这里](https://github.com/sunzq19931016/Android-Studio-Plugins-cn)
-
 ### Code generators
 
 |          Plugin Name                        |                 Plugin link
