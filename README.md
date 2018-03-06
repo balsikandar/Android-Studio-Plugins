@@ -17,7 +17,7 @@ This is a list of all awesome and useful android studio plugins. This repo will 
 
 Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7) related to this repo.
 
-## I just added Flutter an exciting new plugin to build and deploy cross-platform, high-performance mobile apps on both Android and iOS.
+## I just added Flutter an exciting new plugin to build and deploy cross-platform, high-performance mobile apps on both Android and iOS in our Android Plugins list.
 
 ### Code generators
 
