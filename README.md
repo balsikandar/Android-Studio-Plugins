@@ -92,6 +92,12 @@ Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-
 | GenyMotion                                  |  https://www.genymotion.com/plugins/
 | Git Flow Integration for Intellij           |  https://github.com/OpherV/gitflow4idea/
 
+### Latest Plugins
+
+|          Plugin Name                        |                 Plugin link
+| ------------------------------------------  |  -----------------------------------------------------------
+| Flutter                                     |  https://github.com/flutter/flutter-intellij
+
 
 ### Contributing to this Repo
 If you feel something is missing. Create a pull request and Dive In.
