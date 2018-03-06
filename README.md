@@ -19,6 +19,13 @@ Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-
 
 ## I just added Flutter an exciting new plugin to build and deploy cross-platform, high-performance mobile apps on both Android and iOS in our Android Plugins list.
 
+### Latest Plugins
+
+|          Plugin Name                        |                 Plugin link
+| ------------------------------------------  |  -----------------------------------------------------------
+| Flutter                                     |  https://github.com/flutter/flutter-intellij
+
+
 ### Code generators
 
 |          Plugin Name                        |                 Plugin link
@@ -93,12 +100,6 @@ Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-
 | ------------------------------------------  |  -----------------------------------------------------------
 | GenyMotion                                  |  https://www.genymotion.com/plugins/
 | Git Flow Integration for Intellij           |  https://github.com/OpherV/gitflow4idea/
-
-### Latest Plugins
-
-|          Plugin Name                        |                 Plugin link
-| ------------------------------------------  |  -----------------------------------------------------------
-| Flutter                                     |  https://github.com/flutter/flutter-intellij
 
 
 ### Contributing to this Repo
