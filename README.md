@@ -33,6 +33,7 @@ Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-
 | MVP code generator                          |  https://plugins.jetbrains.com/plugin/9784-generate-m-v-p-code
 | Parcelable code generators                  |  https://github.com/mcharmas/android-parcelable-intellij-plugin
 | Butterknife code injector                   |  https://github.com/avast/android-butterknife-zelezny
+| JsonToKotlinClass                           |  https://github.com/wuseal/JsonToKotlinClass
 | Json to Pojo generator                      |  https://github.com/nvinayshetty/DTOnator
 | StepBuilder Generator                       |  https://plugins.jetbrains.com/plugin/8276-stepbuilder-generator
 | Remove butterknife                          |  https://github.com/u3shadow/RemoveButterKnife
