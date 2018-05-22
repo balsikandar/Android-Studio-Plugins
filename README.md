@@ -19,11 +19,25 @@ Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-
 
 ## I just added Flutter an exciting new plugin to build and deploy cross-platform, high-performance mobile apps on both Android and iOS in our Android Plugins list.
 
+
+
+
 ### Latest Plugins
 
 |          Plugin Name                        |                 Plugin link
 | ------------------------------------------  |  -----------------------------------------------------------
-| Flutter                                     |  https://github.com/flutter/flutter-intellij
+| **Flutter installation**                                 |  https://github.com/flutter/flutter-intellij
+| **SonarLint inspection tool**                               |  https://plugins.jetbrains.com/plugin/10741-vector-drawable-thumbnails
+| **Kotlin installation**                                  |  http://kotlinlang.org/
+
+### Plugins for kotlin 
+
+|          Plugin Name                        |                 Plugin link
+| ------------------------------------------  |  -----------------------------------------------------------
+| **Json to kotlin class**                    |  https://github.com/wuseal
+| **Kotlin Parcelable code generator**        |  https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin
+| **Java Stream API debugger**                |  https://plugins.jetbrains.com/plugin/9696-java-stream-debugger
+
 
 
 ### Code generators
@@ -67,6 +81,7 @@ Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-
 | Material Theme UI EAP                       |  https://plugins.jetbrains.com/plugin/9377-material-theme-ui-eap
 | SVG2VectorDrawable                          |  https://github.com/misakuo/svgtoandroid
 | Android Drawable Importer                   |  https://github.com/winterDroid/android-drawable-importer-intellij-plugin
+| Vector Drawable Thumbnails                  |  https://plugins.jetbrains.com/plugin/10741-vector-drawable-thumbnails
 
 
 ### Debugging
@@ -101,6 +116,7 @@ Here is an [article](https://blog.mindorks.com/how-to-become-more-productive-in-
 | ------------------------------------------  |  -----------------------------------------------------------
 | GenyMotion                                  |  https://www.genymotion.com/plugins/
 | Git Flow Integration for Intellij           |  https://github.com/OpherV/gitflow4idea/
+| SonarLint                                   |  https://plugins.jetbrains.com/plugin/10741-vector-drawable-thumbnails
 
 
 ### Contributing to this Repo
