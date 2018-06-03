@@ -27,9 +27,9 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 
 |          Plugin Name                        |                 Plugin link
 | ------------------------------------------  |  -----------------------------------------------------------
-| **Flutter installation**                                 |  https://github.com/flutter/flutter-intellij
-| **SonarLint inspection tool**                               |  https://plugins.jetbrains.com/plugin/10741-vector-drawable-thumbnails
-| **Kotlin installation**                                  |  http://kotlinlang.org/
+| **Flutter installation**                    |  https://github.com/flutter/flutter-intellij
+| **SonarLint inspection tool**               |  https://plugins.jetbrains.com/plugin/7973-sonarlint
+| **Kotlin installation**                     |  http://kotlinlang.org/
 
 ### Plugins for kotlin 
 
@@ -117,7 +117,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | ------------------------------------------  |  -----------------------------------------------------------
 | GenyMotion                                  |  https://www.genymotion.com/plugins/
 | Git Flow Integration for Intellij           |  https://github.com/OpherV/gitflow4idea/
-| SonarLint                                   |  https://plugins.jetbrains.com/plugin/10741-vector-drawable-thumbnails
+| SonarLint                                   |  https://plugins.jetbrains.com/plugin/7973-sonarlint
 
 
 ### Contributing to this Repo
