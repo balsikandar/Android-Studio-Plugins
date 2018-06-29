@@ -118,7 +118,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | GenyMotion                                  |  https://www.genymotion.com/plugins/
 | Git Flow Integration for Intellij           |  https://github.com/OpherV/gitflow4idea/
 | SonarLint                                   |  https://plugins.jetbrains.com/plugin/7973-sonarlint
-
+| Spotless                                    |  https://github.com/diffplug/spotless
 
 ### Contributing to this Repo
 If you feel something is missing. Create a pull request and Dive In.
