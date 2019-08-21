@@ -83,6 +83,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | SVG2VectorDrawable                          |  https://github.com/misakuo/svgtoandroid
 | Android Drawable Importer                   |  https://github.com/winterDroid/android-drawable-importer-intellij-plugin
 | Vector Drawable Thumbnails                  |  https://plugins.jetbrains.com/plugin/10741-vector-drawable-thumbnails
+| ChroMATERIAL                                |  https://github.com/ciscorucinski/ChroMATERIAL
 
 
 ### Debugging
