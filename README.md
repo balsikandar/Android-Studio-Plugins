@@ -111,6 +111,8 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | Scala                                       |  https://plugins.jetbrains.com/plugin/1347-scala
 | ADB Wifi                                    |  https://github.com/layerlre/ADBWIFI
 | String Manipulation                         |  https://github.com/krasa/StringManipulation
+| Android localization                        |  https://github.com/Airsaid/AndroidLocalizePlugin
+| Inspire to write code                       |  https://github.com/Airsaid/InspireWritingPlugin
 
 ### Tools
 
