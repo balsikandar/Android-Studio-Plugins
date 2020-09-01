@@ -62,6 +62,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | AndroidLocalizationer                       |  https://github.com/westlinkin/AndroidLocalizationer
 | .gitignore                                  |  https://github.com/hsz/idea-gitignore
 | BIU (plugin to compress your PNGs)          |  https://plugins.jetbrains.com/plugin/9788-biu                           
+| Kotlin Data Class to SharedPreferences      |  https://plugins.jetbrains.com/plugin/14970-kotlin-data-class-to-sharedpreferences/
 
 ### UI Design
 
