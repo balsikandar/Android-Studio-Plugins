@@ -38,6 +38,8 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | **Json to kotlin class**                    |  https://github.com/wuseal
 | **Kotlin Parcelable code generator**        |  https://github.com/nekocode/android-parcelable-intellij-plugin-kotlin
 | **Java Stream API debugger**                |  https://plugins.jetbrains.com/plugin/9696-java-stream-debugger
+| **Build Webhook Notifier**                  |  https://plugins.jetbrains.com/plugin/16984-build-webhook-notifier
+| **Kotlin Bulk Add Named Params**            |  https://plugins.jetbrains.com/plugin/18248-kotlin-bulk-add-name-params
 
 
 
@@ -62,6 +64,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | AndroidLocalizationer                       |  https://github.com/westlinkin/AndroidLocalizationer
 | .gitignore                                  |  https://github.com/hsz/idea-gitignore
 | BIU (plugin to compress your PNGs)          |  https://plugins.jetbrains.com/plugin/9788-biu                           
+| Kotlin Bulk Add Named Params                |  https://plugins.jetbrains.com/plugin/18248-kotlin-bulk-add-name-params
 
 ### UI Design
 
@@ -113,6 +116,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | String Manipulation                         |  https://github.com/krasa/StringManipulation
 | Android localization                        |  https://github.com/Airsaid/AndroidLocalizePlugin
 | Inspire to write code                       |  https://github.com/Airsaid/InspireWritingPlugin
+| Build Webhook Notifier                      |  https://plugins.jetbrains.com/plugin/16984-build-webhook-notifier
 
 ### Tools
 
