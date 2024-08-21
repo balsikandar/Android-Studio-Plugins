@@ -96,7 +96,7 @@ Robin is a logging library for Bundle data passed between Activities and fragmen
 | Jetbrains-Wakatime                          |  https://github.com/wakatime/jetbrains-wakatime
 | Android Wifi Plugin                         |  https://github.com/pedrovgs/AndroidWiFiADB
 | QA Plug                                     |  https://plugins.jetbrains.com/plugin/4594-qaplug
-
+| RobotQA Remote Debugging on Cloud Devices   |  https://github.com/robotqa/Android-Studio-Plugin-for-Debugging
 
 ### Utilities
 
